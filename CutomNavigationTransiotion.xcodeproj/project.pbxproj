@@ -17,6 +17,7 @@
 		5E376F8D2867413A009357CA /* SlideAnimatedTransitioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E376F8C2867413A009357CA /* SlideAnimatedTransitioning.swift */; };
 		5E376F8F28674149009357CA /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E376F8E28674149009357CA /* FirstViewController.swift */; };
 		5E376F94286744AF009357CA /* original.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 5E376F93286743FF009357CA /* original.mp4 */; };
+		5E376F9628674737009357CA /* sample.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5E376F9528674737009357CA /* sample.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		5E376F8C2867413A009357CA /* SlideAnimatedTransitioning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideAnimatedTransitioning.swift; sourceTree = "<group>"; };
 		5E376F8E28674149009357CA /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		5E376F93286743FF009357CA /* original.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = original.mp4; sourceTree = "<group>"; };
+		5E376F9528674737009357CA /* sample.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = sample.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			isa = PBXGroup;
 			children = (
 				5E376F93286743FF009357CA /* original.mp4 */,
+				5E376F9528674737009357CA /* sample.gif */,
 			);
 			path = Video;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 				5E376F83286740E8009357CA /* LaunchScreen.storyboard in Resources */,
 				5E376F80286740E8009357CA /* Assets.xcassets in Resources */,
 				5E376F7E286740E4009357CA /* Main.storyboard in Resources */,
+				5E376F9628674737009357CA /* sample.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
