@@ -1,4 +1,5 @@
 # CutomNavigationTransiotion
 
 #Example
-<img src="CutomNavigationTransiotion/Video/sample.gif" height="60%">
+
+<img src="CutomNavigationTransiotion/Video/sample.gif" height="50%">
